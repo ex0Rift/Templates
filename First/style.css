@@ -48,10 +48,17 @@ svg{
         padding-left: 45px;
     }
 
-    hr{
-        display: fixed;
-        width: 40px;
-        height: 0.5px;
-        top: 20px;
-    }
+}
+
+/*Hero section*/
+
+.hero{
+    display: flex;
+}
+
+.heroImage{
+    width: 50px !important;
+    height: auto !important;
+    display: block;
+    
 }
